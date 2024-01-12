@@ -1,0 +1,34 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is Namaste React",
+
+  "scripts": {
+    "start":"parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anvi2003/NR.git"
+  },
+  "keywords": [],
+  "author": "Avishka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anvi2003/NR/issues"
+  },
+  "homepage": "https://github.com/anvi2003/NR#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[
+    
+    "last 10 versions"
+  ]
+}
